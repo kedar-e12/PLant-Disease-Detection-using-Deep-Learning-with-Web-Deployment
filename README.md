@@ -25,8 +25,8 @@ a.Download Dataset and Clone the Repository.
 
 b.Install all requirements in the "requirements.txt" file.
 
-c.Run train_plant_disease.ipynb for training the model.
+c.Run "train_plant_disease.ipynb" for training the model.
 
-d.Use test_plant_disease.ipynb for testing the model with the images in the "test" dataset.
+d.Use "test_plant_disease.ipynb" for testing the model with the images in the "test" dataset.
 
 e.Run the command "streamlit run main.py" in the terminal for the web application and input image from the "test" set on the web application and get output.
